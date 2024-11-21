@@ -1,8 +1,7 @@
-console.log('Grishin-M');
 const button = document.querySelector('button');
 
 button.onclick = function () {
-	console.log('click button');
+	console.log('Grishin-M');
 }
 
 button.addEventListener('click', function (event) {
